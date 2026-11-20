@@ -2,8 +2,6 @@
 
 Code for a study of two-rater disagreement and reference-score construction for automated essay scoring (AES) on the ELLIPSE corpus: rater agreement, many-facet Rasch rater severity, and five ways to turn two rater scores into one reference score for DeBERTa-v3-base.
 
-Kode untuk makalah "Ketidaksepakatan Dua Penilai dan Pembentukan Skor Acuan pada Penilaian Esai Otomatis pada Korpus ELLIPSE" (Khairani Djahara, Umi Laili Yuhana, Berlian Al Kindhi, Morteza Saberi). Makalah: [tautan akan ditambahkan].
-
 ## Isi
 
 | Folder | Isi | Perangkat keras |
