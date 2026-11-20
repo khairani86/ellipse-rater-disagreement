@@ -1,0 +1,216 @@
+himpunan,kriteria,rerata,n,n_exact,n_ge2,persis_tak_mungkin,persis_pasti,selisih2_tak_mungkin,exact,exact_lo,exact_hi,ge2,ge2_lo,ge2_hi
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Overall,1.0,11,11,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Overall,1.5,33,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Overall,2.0,556,554,2,False,False,False,99.64028776978417,99.1776267471705,100.0,0.3597122302158273,0.0,0.8223732528294885
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Overall,2.5,1138,0,0,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Overall,3.0,2337,2322,15,False,False,False,99.3581514762516,98.8397752175335,99.7803532372888,0.6418485237483954,0.21964676271121084,1.1602247824665033
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Overall,3.5,1303,0,0,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Overall,4.0,907,906,1,False,False,False,99.88974641675854,99.63675968964847,100.0,0.11025358324145534,0.0,0.3632403103515312
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Overall,4.5,153,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Overall,5.0,40,40,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Cohesion,1.0,13,13,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Cohesion,1.5,43,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Cohesion,2.0,526,517,9,False,False,False,98.28897338403041,96.3855421686747,99.65428251237645,1.7110266159695817,0.34571748762354787,3.6144578313253013
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Cohesion,2.5,1261,0,0,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Cohesion,3.0,1938,1821,117,False,False,False,93.96284829721363,92.07812693655426,95.64150029216341,6.037151702786378,4.3584997078365895,7.921873063445742
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Cohesion,3.5,1565,0,0,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Cohesion,4.0,897,857,40,False,False,False,95.54069119286511,93.30733590733591,97.37772573710073,4.459308807134894,2.6222742628992632,6.692664092664091
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Cohesion,4.5,197,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Cohesion,5.0,37,37,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Syntax,1.0,15,15,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Syntax,1.5,43,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Syntax,2.0,668,666,2,False,False,False,99.7005988023952,99.28361616111715,100.0,0.2994011976047904,0.0,0.7163838388828506
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Syntax,2.5,1366,0,0,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Syntax,3.0,2160,2071,89,False,False,False,95.87962962962963,93.80733636179495,97.46042086261318,4.12037037037037,2.5395791373868106,6.192663638205056
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Syntax,3.5,1378,0,0,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Syntax,4.0,670,645,25,False,False,False,96.26865671641791,94.04093751156165,97.89157618616758,3.7313432835820897,2.1084238138324047,5.959062488438343
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Syntax,4.5,149,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Syntax,5.0,28,28,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Vocabulary,1.0,2,2,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Vocabulary,1.5,17,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Vocabulary,2.0,224,223,1,False,False,False,99.55357142857143,98.36934248039914,100.0,0.44642857142857145,0.0,1.630657519600854
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Vocabulary,2.5,876,0,0,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Vocabulary,3.0,2491,2453,38,False,False,False,98.47450822962665,97.70112068965517,99.11669844460793,1.525491770373344,0.8833015553920603,2.298879310344827
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Vocabulary,3.5,1664,0,0,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Vocabulary,4.0,961,933,28,False,False,False,97.08636836628511,95.79945175619967,98.26186212277031,2.91363163371488,1.738137877229689,4.2005482438003225
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Vocabulary,4.5,187,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Vocabulary,5.0,56,56,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Phraseology,1.0,11,11,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Phraseology,1.5,20,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Phraseology,2.0,561,560,1,False,False,False,99.82174688057042,99.39271255060729,100.0,0.17825311942959002,0.0,0.6072874493927125
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Phraseology,2.5,1277,0,0,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Phraseology,3.0,1967,1860,107,False,False,False,94.5602440264362,92.76386905386958,96.15955700042204,5.439755973563803,3.84044299957797,7.23613094613042
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Phraseology,3.5,1527,0,0,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Phraseology,4.0,908,889,19,False,False,False,97.90748898678414,96.8550481227368,98.76174351887552,2.092511013215859,1.2382564811244767,3.1449518772631966
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Phraseology,4.5,171,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Phraseology,5.0,36,36,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Grammar,1.0,9,9,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Grammar,1.5,35,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Grammar,2.0,869,865,4,False,False,False,99.5397008055236,98.8671896572672,100.0,0.46029919447640966,0.0,1.1328103427328047
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Grammar,2.5,1403,0,0,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Grammar,3.0,1784,1666,118,False,False,False,93.38565022421524,91.07491542117138,95.40755555555555,6.614349775784754,4.592444444444444,8.925084578828624
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Grammar,3.5,1414,0,0,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Grammar,4.0,719,677,42,False,False,False,94.15855354659249,91.60745384883316,96.4832102924312,5.84144645340751,3.5167897075688073,8.392546151166835
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Grammar,4.5,202,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Grammar,5.0,43,43,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Conventions,1.0,20,20,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Conventions,1.5,28,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Conventions,2.0,691,689,2,False,False,False,99.71056439942113,99.2306800618238,100.0,0.2894356005788712,0.0,0.7693199381761974
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Conventions,2.5,1271,0,0,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Conventions,3.0,1949,1819,130,False,False,False,93.32991277578245,90.9393935715409,95.35726848060746,6.670087224217547,4.642731519392541,9.060606428459096
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Conventions,3.5,1487,0,0,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Conventions,4.0,805,773,32,False,False,False,96.0248447204969,94.29306410135581,97.50261073668554,3.9751552795031055,2.4973892633144477,5.706935898644191
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Conventions,4.5,190,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Conventions,5.0,36,36,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Gabungan 6 aspek,1.0,70,70,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Gabungan 6 aspek,1.5,186,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Gabungan 6 aspek,2.0,3539,3520,19,False,False,False,99.46312517660355,99.05184662187771,99.79147825712987,0.5368748233964397,0.2085217428701326,0.9481533781222848
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Gabungan 6 aspek,2.5,7454,0,0,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Gabungan 6 aspek,3.0,12289,11690,599,False,False,False,95.12572219057694,94.0718649924816,96.10207886852118,4.874277809423061,3.8979211314788245,5.928135007518405
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Gabungan 6 aspek,3.5,9035,0,0,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Gabungan 6 aspek,4.0,4960,4774,186,False,False,False,96.25,95.17360548676659,97.1476057492518,3.75,2.8523942507482034,4.826394513233409
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Gabungan 6 aspek,4.5,1096,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Baris ber-text_id_kaggle (himpunan resmi) (utama),Gabungan 6 aspek,5.0,236,236,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Semua baris,Overall,1.0,14,14,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Semua baris,Overall,1.5,86,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Semua baris,Overall,2.0,715,704,11,False,False,False,98.46153846153847,97.1037864234428,99.36206686374302,1.5384615384615385,0.6379331362569713,2.8962135765571912
+Semua baris,Overall,2.5,1549,0,0,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+Semua baris,Overall,3.0,2952,2811,141,False,False,False,95.22357723577235,93.77927732440209,96.54307949972562,4.776422764227642,3.4569205002743733,6.220722675597904
+Semua baris,Overall,3.5,1954,0,7,True,False,False,0.0,0.0,0.0,0.35823950870010235,0.08536556065872185,0.6700189089778791
+Semua baris,Overall,4.0,1211,1112,99,False,False,False,91.82493806771264,89.34333779875891,94.17641544913728,8.175061932287365,5.8235845508627175,10.656662201241096
+Semua baris,Overall,4.5,327,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Semua baris,Overall,5.0,51,51,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Semua baris,Cohesion,1.0,18,18,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Semua baris,Cohesion,1.5,123,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Semua baris,Cohesion,2.0,708,659,49,False,False,False,93.07909604519774,89.15446859429558,96.54422788605696,6.9209039548022595,3.455772113943029,10.845531405704419
+Semua baris,Cohesion,2.5,1693,0,4,True,False,False,0.0,0.0,0.0,0.23626698168930893,0.0,0.5545446849012482
+Semua baris,Cohesion,3.0,2492,2155,337,False,False,False,86.47672552166934,83.3888861768443,89.28289395107439,13.523274478330658,10.717106048925613,16.611113823155705
+Semua baris,Cohesion,3.5,2162,0,14,True,False,False,0.0,0.0,0.0,0.6475485661424607,0.27059052483012497,1.1521041815681488
+Semua baris,Cohesion,4.0,1241,1066,175,False,False,False,85.89846897663175,81.29495139701767,89.84434934024047,14.101531023368251,10.155650659759534,18.70504860298233
+Semua baris,Cohesion,4.5,369,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Semua baris,Cohesion,5.0,51,51,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Semua baris,Syntax,1.0,20,20,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Semua baris,Syntax,1.5,124,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Semua baris,Syntax,2.0,867,829,38,False,False,False,95.61707035755478,92.93657404779475,97.84062094309563,4.382929642445213,2.1593790569043634,7.063425952205253
+Semua baris,Syntax,2.5,1804,0,4,True,False,False,0.0,0.0,0.0,0.22172949002217296,0.053560431051208175,0.4329004329004329
+Semua baris,Syntax,3.0,2793,2490,303,False,False,False,89.15145005370569,85.72066964711247,91.64922704456168,10.848549946294307,8.350772955438321,14.279330352887525
+Semua baris,Syntax,3.5,1967,0,7,True,False,False,0.0,0.0,0.0,0.35587188612099646,0.11185058125599233,0.6597080171790713
+Semua baris,Syntax,4.0,980,825,155,False,False,False,84.18367346938776,79.38861664069913,88.47933467741936,15.816326530612244,11.520665322580644,20.611383359300874
+Semua baris,Syntax,4.5,266,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Semua baris,Syntax,5.0,37,37,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Semua baris,Vocabulary,1.0,2,2,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Semua baris,Vocabulary,1.5,36,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Semua baris,Vocabulary,2.0,318,309,9,False,False,False,97.16981132075472,94.40789473684211,99.1099886542154,2.830188679245283,0.8900113457846046,5.592105263157895
+Semua baris,Vocabulary,2.5,1258,0,0,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+Semua baris,Vocabulary,3.0,3095,2910,185,False,False,False,94.02261712439419,91.99484528637949,95.6732710592259,5.977382875605816,4.326728940774094,8.005154713620502
+Semua baris,Vocabulary,3.5,2420,0,4,True,False,False,0.0,0.0,0.0,0.1652892561983471,0.0,0.4085511268454271
+Semua baris,Vocabulary,4.0,1311,1140,171,False,False,False,86.95652173913044,83.40803077387041,89.79289652328107,13.043478260869565,10.20710347671893,16.5919692261296
+Semua baris,Vocabulary,4.5,338,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Semua baris,Vocabulary,5.0,81,81,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Semua baris,Phraseology,1.0,13,13,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Semua baris,Phraseology,1.5,83,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Semua baris,Phraseology,2.0,743,721,22,False,False,False,97.03903095558546,94.96516158136482,98.50101004088526,2.9609690444145356,1.4989899591147353,5.03483841863517
+Semua baris,Phraseology,2.5,1731,0,3,True,False,False,0.0,0.0,0.0,0.1733102253032929,0.0,0.5364170348218934
+Semua baris,Phraseology,3.0,2554,2190,364,False,False,False,85.74784651527017,82.37539076786551,89.16728173922904,14.252153484729835,10.832718260770969,17.624609232134482
+Semua baris,Phraseology,3.5,2100,0,13,True,False,False,0.0,0.0,0.0,0.6190476190476191,0.2733082846390017,1.029503483314637
+Semua baris,Phraseology,4.0,1244,1100,144,False,False,False,88.42443729903538,84.91282283566152,91.55820864931339,11.57556270096463,8.441791350686616,15.087177164338488
+Semua baris,Phraseology,4.5,345,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Semua baris,Phraseology,5.0,46,46,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Semua baris,Grammar,1.0,13,13,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Semua baris,Grammar,1.5,100,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Semua baris,Grammar,2.0,1097,1066,31,False,False,False,97.17411121239745,95.35260059828235,98.5169852866307,2.8258887876025525,1.4830147133693108,4.647399401717649
+Semua baris,Grammar,2.5,1855,0,4,True,False,False,0.0,0.0,0.0,0.215633423180593,0.0,0.5120955619204114
+Semua baris,Grammar,3.0,2260,1900,360,False,False,False,84.070796460177,80.5167726407349,87.40797408862676,15.929203539823009,12.592025911373232,19.48322735926511
+Semua baris,Grammar,3.5,1952,0,16,True,False,False,0.0,0.0,0.0,0.819672131147541,0.3494306775051326,1.4085260063374252
+Semua baris,Grammar,4.0,1095,909,186,False,False,False,83.01369863013699,78.91086233288209,86.57426678637502,16.986301369863014,13.425733213624985,21.089137667117917
+Semua baris,Grammar,4.5,407,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Semua baris,Grammar,5.0,80,80,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Semua baris,Conventions,1.0,28,28,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Semua baris,Conventions,1.5,79,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Semua baris,Conventions,2.0,857,843,14,False,False,False,98.36639439906651,97.11880427846815,99.39543699537298,1.633605600933489,0.6045630046270206,2.881195721531856
+Semua baris,Conventions,2.5,1691,0,1,True,False,False,0.0,0.0,0.0,0.05913660555884092,0.0,0.19050661798265614
+Semua baris,Conventions,3.0,2440,2141,299,False,False,False,87.74590163934427,84.67470497865513,90.65682536641785,12.254098360655737,9.343174633582143,15.325295021344862
+Semua baris,Conventions,3.5,2095,0,18,True,False,False,0.0,0.0,0.0,0.8591885441527446,0.45868935401927236,1.32855216195789
+Semua baris,Conventions,4.0,1234,1060,174,False,False,False,85.89951377633712,81.40978964401295,89.82966392434601,14.100486223662886,10.170336075653992,18.590210355987054
+Semua baris,Conventions,4.5,373,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Semua baris,Conventions,5.0,60,60,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Semua baris,Gabungan 6 aspek,1.0,94,94,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Semua baris,Gabungan 6 aspek,1.5,545,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Semua baris,Gabungan 6 aspek,2.0,4590,4427,163,False,False,False,96.44880174291939,94.8946834175941,97.79784811606072,3.55119825708061,2.20215188393928,5.105316582405899
+Semua baris,Gabungan 6 aspek,2.5,10032,0,16,True,False,False,0.0,0.0,0.0,0.1594896331738437,0.06323450855768473,0.2712543000677378
+Semua baris,Gabungan 6 aspek,3.0,15634,13786,1848,False,False,False,88.1796085454778,86.47479689893271,89.79351366072088,11.820391454522195,10.20648633927913,13.525203101067284
+Semua baris,Gabungan 6 aspek,3.5,12696,0,72,True,False,False,0.0,0.0,0.0,0.5671077504725898,0.3870805982086665,0.7824881167370293
+Semua baris,Gabungan 6 aspek,4.0,7105,6100,1005,False,False,False,85.85503166783955,83.0067892831465,88.50840657097474,14.14496833216045,11.491593429025253,16.993210716853497
+Semua baris,Gabungan 6 aspek,4.5,2098,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Semua baris,Gabungan 6 aspek,5.0,355,355,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Overall,1.0,3,3,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Overall,1.5,53,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Overall,2.0,159,150,9,False,False,False,94.33962264150944,88.59060402684564,98.11379350755888,5.660377358490566,1.886206492441111,11.409395973154362
+Baris tanpa text_id_kaggle,Overall,2.5,411,0,0,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Overall,3.0,615,489,126,False,False,False,79.51219512195122,72.38569765849651,85.12218086865525,20.48780487804878,14.877819131344742,27.61430234150348
+Baris tanpa text_id_kaggle,Overall,3.5,651,0,7,True,False,False,0.0,0.0,0.0,1.075268817204301,0.19451497077956223,2.0408163265306123
+Baris tanpa text_id_kaggle,Overall,4.0,304,206,98,False,False,False,67.76315789473684,58.860394352482956,76.2196187958383,32.23684210526316,23.780381204161692,41.13960564751704
+Baris tanpa text_id_kaggle,Overall,4.5,174,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Overall,5.0,11,11,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Cohesion,1.0,5,5,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Cohesion,1.5,80,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Cohesion,2.0,182,142,40,False,False,False,78.02197802197803,69.95067510656219,86.58739837398372,21.978021978021978,13.41260162601626,30.049324893437813
+Baris tanpa text_id_kaggle,Cohesion,2.5,432,0,4,True,False,False,0.0,0.0,0.0,0.9259259259259259,0.0,2.247191011235955
+Baris tanpa text_id_kaggle,Cohesion,3.0,554,334,220,False,False,False,60.288808664259925,54.18349464530705,65.95422149122807,39.711191335740075,34.045778508771924,45.81650535469295
+Baris tanpa text_id_kaggle,Cohesion,3.5,597,0,14,True,False,False,0.0,0.0,0.0,2.3450586264656614,1.0908102766798418,3.9605240696483435
+Baris tanpa text_id_kaggle,Cohesion,4.0,344,209,135,False,False,False,60.75581395348837,51.587244407849596,69.09620991253644,39.24418604651163,30.903790087463555,48.412755592150404
+Baris tanpa text_id_kaggle,Cohesion,4.5,172,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Cohesion,5.0,14,14,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Syntax,1.0,5,5,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Syntax,1.5,81,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Syntax,2.0,199,163,36,False,False,False,81.90954773869346,72.93481522764297,90.36715645390767,18.09045226130653,9.632843546092332,27.06518477235702
+Baris tanpa text_id_kaggle,Syntax,2.5,438,0,4,True,False,False,0.0,0.0,0.0,0.91324200913242,0.2207383960089856,1.7648795738767937
+Baris tanpa text_id_kaggle,Syntax,3.0,633,419,214,False,False,False,66.19273301737756,58.39030258366569,73.29452489100343,33.80726698262243,26.705475108996566,41.60969741633431
+Baris tanpa text_id_kaggle,Syntax,3.5,589,0,7,True,False,False,0.0,0.0,0.0,1.1884550084889642,0.34186575654152446,2.192326981786848
+Baris tanpa text_id_kaggle,Syntax,4.0,310,180,130,False,False,False,58.064516129032256,49.08508355916893,67.32451853981028,41.935483870967744,32.67548146018971,50.91491644083107
+Baris tanpa text_id_kaggle,Syntax,4.5,117,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Syntax,5.0,9,9,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Vocabulary,1.5,19,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Vocabulary,2.0,94,86,8,False,False,False,91.48936170212765,85.26315789473684,97.5,8.51063829787234,2.5,14.736842105263158
+Baris tanpa text_id_kaggle,Vocabulary,2.5,382,0,0,True,False,False,0.0,0.0,0.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Vocabulary,3.0,604,457,147,False,False,False,75.66225165562913,69.45794998220913,81.57906852767277,24.337748344370862,18.42093147232723,30.542050017790874
+Baris tanpa text_id_kaggle,Vocabulary,3.5,756,0,4,True,False,False,0.0,0.0,0.0,0.5291005291005291,0.0,1.25008704735376
+Baris tanpa text_id_kaggle,Vocabulary,4.0,350,207,143,False,False,False,59.142857142857146,50.74626865671642,67.0263329557999,40.857142857142854,32.973667044200084,49.25373134328358
+Baris tanpa text_id_kaggle,Vocabulary,4.5,151,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Vocabulary,5.0,25,25,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Phraseology,1.0,2,2,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Phraseology,1.5,63,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Phraseology,2.0,182,161,21,False,False,False,88.46153846153847,81.38288701393984,93.58546566726974,11.538461538461538,6.414534332730249,18.61711298606016
+Baris tanpa text_id_kaggle,Phraseology,2.5,454,0,3,True,False,False,0.0,0.0,0.0,0.6607929515418502,0.0,1.9439496788308877
+Baris tanpa text_id_kaggle,Phraseology,3.0,587,330,257,False,False,False,56.218057921635435,49.60619478268134,63.97215385836773,43.781942078364565,36.02784614163227,50.39380521731866
+Baris tanpa text_id_kaggle,Phraseology,3.5,573,0,13,True,False,False,0.0,0.0,0.0,2.268760907504363,1.015202685310077,3.72453536025085
+Baris tanpa text_id_kaggle,Phraseology,4.0,336,211,125,False,False,False,62.79761904761905,54.15545473293463,71.11960101670037,37.20238095238095,28.88039898329962,45.84454526706537
+Baris tanpa text_id_kaggle,Phraseology,4.5,174,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Phraseology,5.0,10,10,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Grammar,1.0,4,4,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Grammar,1.5,65,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Grammar,2.0,228,201,27,False,False,False,88.15789473684211,83.62265328410213,92.57848668981481,11.842105263157896,7.421513310185185,16.377346715897858
+Baris tanpa text_id_kaggle,Grammar,2.5,452,0,4,True,False,False,0.0,0.0,0.0,0.8849557522123894,0.0,2.0002008032128504
+Baris tanpa text_id_kaggle,Grammar,3.0,476,234,242,False,False,False,49.15966386554622,41.03602152772005,57.02491612797643,50.84033613445378,42.97508387202357,58.96397847227993
+Baris tanpa text_id_kaggle,Grammar,3.5,538,0,16,True,False,False,0.0,0.0,0.0,2.973977695167286,1.2094755372755073,5.3763976352653895
+Baris tanpa text_id_kaggle,Grammar,4.0,376,232,144,False,False,False,61.702127659574465,52.75774655865858,69.94281653598885,38.297872340425535,30.057183464011143,47.24225344134142
+Baris tanpa text_id_kaggle,Grammar,4.5,205,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Grammar,5.0,37,37,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Conventions,1.0,8,8,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Conventions,1.5,51,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Conventions,2.0,166,154,12,False,False,False,92.7710843373494,87.57388092133854,97.31543624161074,7.228915662650603,2.684563758389262,12.42611907866145
+Baris tanpa text_id_kaggle,Conventions,2.5,420,0,1,True,False,False,0.0,0.0,0.0,0.23809523809523808,0.0,0.7648549848721271
+Baris tanpa text_id_kaggle,Conventions,3.0,491,322,169,False,False,False,65.58044806517312,57.73184161199625,72.98743271937188,34.419551934826885,27.012567280628115,42.26815838800375
+Baris tanpa text_id_kaggle,Conventions,3.5,608,0,18,True,False,False,0.0,0.0,0.0,2.960526315789474,1.631279076792943,4.723575251624192
+Baris tanpa text_id_kaggle,Conventions,4.0,429,287,142,False,False,False,66.8997668997669,57.49893031784841,75.37242274634195,33.1002331002331,24.627577253658036,42.50106968215158
+Baris tanpa text_id_kaggle,Conventions,4.5,183,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Conventions,5.0,24,24,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Gabungan 6 aspek,1.0,24,24,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Gabungan 6 aspek,1.5,359,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Gabungan 6 aspek,2.0,1051,907,144,False,False,False,86.29876308277831,82.98995867345197,90.03124649907697,13.701236917221694,9.968753500923025,17.010041326548038
+Baris tanpa text_id_kaggle,Gabungan 6 aspek,2.5,2578,0,16,True,False,False,0.0,0.0,0.0,0.6206361520558572,0.2518786118014193,1.0138646012063446
+Baris tanpa text_id_kaggle,Gabungan 6 aspek,3.0,3345,2096,1249,False,False,False,62.66068759342302,59.41346076614976,65.97912155753986,37.33931240657698,34.020878442460145,40.58653923385024
+Baris tanpa text_id_kaggle,Gabungan 6 aspek,3.5,3661,0,72,True,False,False,0.0,0.0,0.0,1.966675771647091,1.3826047593357522,2.6360248439394165
+Baris tanpa text_id_kaggle,Gabungan 6 aspek,4.0,2145,1326,819,False,False,False,61.81818181818182,56.21723279926302,67.28083986423681,38.18181818181818,32.7191601357632,43.78276720073698
+Baris tanpa text_id_kaggle,Gabungan 6 aspek,4.5,1002,0,0,True,False,True,0.0,0.0,0.0,0.0,0.0,0.0
+Baris tanpa text_id_kaggle,Gabungan 6 aspek,5.0,119,119,0,False,True,True,100.0,100.0,100.0,0.0,0.0,0.0
