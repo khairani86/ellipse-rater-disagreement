@@ -1,0 +1,9 @@
+# PyTorch dipasang TERPISAH (lihat README): RTX 50xx (Blackwell) memerlukan build CUDA 12.8 (cu128) atau lebih baru.
+numpy
+pandas
+scipy
+scikit-learn
+transformers
+sentencepiece
+protobuf
+tiktoken

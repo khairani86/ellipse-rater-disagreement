@@ -1,0 +1,1 @@
+Taruh ellipse_raw.csv di folder ini (lihat README bagian 2).
